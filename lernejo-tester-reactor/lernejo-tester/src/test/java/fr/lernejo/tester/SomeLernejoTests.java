@@ -1,5 +1,7 @@
-import api.TestMethod;
+package fr.lernejo.tester;
 
+import fr.lernejo.tester.api.TestMethod;
+import fr.lernejo.tester.internal.*;
 public class SomeLernejoTests {
     @TestMethod
     public void ok(){
@@ -9,7 +11,5 @@ public class SomeLernejoTests {
     public void ko(){
         throw  new IllegalStateException();
     }
-    public void none(){
-
-    }
+    public void none(){}
 }
