@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lernejo-tester-reactor/Sample/Sample.iml" filepath="$PROJECT_DIR$/lernejo-tester-reactor/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lernejo-tester-reactor/lernejo-tester/lernejo-tester.iml" filepath="$PROJECT_DIR$/lernejo-tester-reactor/lernejo-tester/lernejo-tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lernejo-tester-reactor/lernejo-tester-reactor.iml" filepath="$PROJECT_DIR$/lernejo-tester-reactor/lernejo-tester-reactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/maven_training_2.iml" filepath="$PROJECT_DIR$/.idea/maven_training_2.iml" />
     </modules>
   </component>

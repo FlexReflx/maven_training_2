@@ -11,6 +11,7 @@
     <modules>
         <module>lernejo-tester</module>
     </modules>
+
     <profiles>
         <profile>
             <id>with-tests</id>
